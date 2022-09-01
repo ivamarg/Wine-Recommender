@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+ast
+re
+scipy
+scikit-learn
+prince
+plotly
+yellowbrick
+matplotlib
+requests
